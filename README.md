@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on mobile and web application development
 - 📫 How to reach me: https://www.linkedin.com/in/aqib-javed1119/ 
 - 😄 Pronouns: He / His 
-- ⚡ Fun fact: I code when I sleep  
 -->
 
 - 🔭 I’m currently working on making personal projects on web development 
@@ -18,4 +17,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on mobile and web application development
 - 📫 How to reach me: https://www.linkedin.com/in/aqib-javed1119/ 
 - 😄 Pronouns: He / His 
-- ⚡ Fun fact: I code when I sleep 
